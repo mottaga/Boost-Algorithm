@@ -1,8 +1,8 @@
 # Boost algorithm
 
 ## Description
-This project aims to solve the blind source and tampering identification of images taken by a specific device.  
-It uses a watermarking technique developed to apply a mark of variable size to an RGB/grayscale image of variable size.  
+The goal of this project is the source identification and tampering detection of images taken by a specific device.  
+It uses a blind watermarking technique developed to apply a mark of variable size to an RGB/grayscale image of variable size.  
 The algorithms is blind and is based on the concept of swapping the coefficients of the DCT chunks.  
 More information regarding the project and the results obtained can be found within the file boost_algorithm.pdf and boost_algorithm_presentation.pdf
 
